@@ -22,11 +22,11 @@
     </tr>
 </table>
   
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/kauecorreia/" target="_blank">
     <img align="center" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" style="width: 50px; height: auto;"/>
   </a>
-  <a href="mailto:correiakaue0@gmail.com">
+  <a href="mailto:correiakaue0@gmail.com" target="_blank">
     <img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" style="width: 50px; height: auto;"/>
   </a>     
   <a href="https://portfoliokauecorreia.netlify.app/" target="_blank">
