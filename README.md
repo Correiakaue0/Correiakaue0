@@ -1,37 +1,49 @@
-<table>
-    <tr>
-        <td width="70%">
-            - 🤓&ensp; Desenvolvedor de Software Back-End<br>
-            - 💻&ensp;Atualmente trabalho na empresa Harmonit<br>
-            - 🎓&ensp;Formado em Desenvolvimento de Sistemas pela ETEC MAM e Análise e Desenvolvimento de Sistemas na UNIMAR<br>
-            - 🏛️&ensp;Atualmente pós-graduando em Engenharia de Software na UTFPF<br>
-        </td>
-        <td width="30%">
-            <div align="center">
-                <img width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" />
-                <img width="40" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" />
-                <img width="40" src="https://icongr.am/devicon/gitlab-original.svg?size=128&color=currentColor" />
-            </div>
-            <div align="center">
-                <img width="40" src="https://icongr.am/devicon/redis-original-wordmark.svg?size=128&color=currentColor" />
-                <img width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" />
-                <img width="40" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" />
-                <img width="40" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" />
-            </div>
-        </td>
-    </tr>
-</table>
-  
+# 👋 Olá, sou Kauê Correia
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/kauecorreia/" target="_blank">
-    <img align="center" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" style="width: 50px; height: auto;"/>
-  </a>
-  <a href="mailto:correiakaue0@gmail.com" target="_blank">
-    <img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" style="width: 50px; height: auto;"/>
-  </a>     
-  <a href="https://portfoliokauecorreia.netlify.app/" target="_blank">
-    <img align="center" src="https://img.icons8.com/?size=100&id=9xygBPzKrg89&format=png&color=000000" style="width: 50px; height: auto;"/>
-  </a>     
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Desenvolvedor+Back-End;Focado+em+criar+solu%C3%A7%C3%B5es+eficientes+com+tecnologia" alt="Typing SVG" />
 </div>
 
-![Snake animation](https://github.com/samuelCupertino/samuelCupertino/blob/output/github-contribution-grid-snake.svg)
+## 🚀 Sobre mim
+
+Sou o Kauê Correia, tenho 21 anos, atualmente trabalhando como **Desenvolvedor back-end** na Harmonit. Técnico em **Desenvolvimento de Sistemas** pela ETEC MAM e Formado em **Análise e Desenvolvimento de Sistemas** pela UNIMAR.
+
+- 💼 **Cargo atual:** Desenvolvedor de Software Back-End
+- 🎓 **Formação:** Formado em Desenvolvimento de Sistemas pela ETEC MAM e Análise e Desenvolvimento de Sistemas pela UNIMAR
+- 🌱 **Atualmente estudando:** Pós Graduando em Engenharia de Software na Universidade Tecnológica Federal do Paraná — UTFPR
+- 🌐 **Portfólio:** [kaueCorreia.com.br](https://portfoliokauecorreia.netlify.app/)
+
+---
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+---
+
+### 💻 Linguagens 
+[![My Skills](https://skillicons.dev/icons?i=cs,js)](https://skillicons.dev)
+
+### Banco de dados
+[![My Skills](https://skillicons.dev/icons?i=dynamodb,mysql,postgres,redis)](https://skillicons.dev)
+
+### Controle de versão
+[![My Skills](https://skillicons.dev/icons?i=bitbucket,git,gitlab)](https://skillicons.dev)
+
+### 🛠️ Bibliotecas e ferramentas de desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=dotnet,docker,postman,aws)](https://skillicons.dev)
+
+##
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauecorreia/)
+[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:correiakaue0@gamil.com)
+[![Portfolio](https://img.shields.io/badge/Portfólio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfoliokauecorreia.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Correiakaue0)
+
+</div>
