@@ -25,17 +25,14 @@ Sou o Kauê Correia, tenho 21 anos, atualmente trabalhando como **Desenvolvedor 
 ###
 ---
 
-### 💻 Linguagens 
-[![My Skills](https://skillicons.dev/icons?i=cs,js)](https://skillicons.dev)
+### 🛠️ Tools 
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,postman,docker,aws,git,gitlab,bitbucket)](https://skillicons.dev)
 
-### Banco de dados
-[![My Skills](https://skillicons.dev/icons?i=dynamodb,mysql,postgres,redis)](https://skillicons.dev)
+### 🖥️ Back-end
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python)](https://skillicons.dev)
 
-### Controle de versão
-[![My Skills](https://skillicons.dev/icons?i=bitbucket,git,gitlab)](https://skillicons.dev)
-
-### 🛠️ Bibliotecas e ferramentas de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=dotnet,docker,postman,aws)](https://skillicons.dev)
+### 🗄️ Database
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,redis,postgres)](https://skillicons.dev)
 
 ##
 
