@@ -11,7 +11,7 @@ Sou o Kauê Correia, tenho 21 anos, atualmente trabalhando como **Desenvolvedor 
 - 💼 **Cargo atual:** Desenvolvedor de Software Back-End
 - 🎓 **Formação:** Formado em Desenvolvimento de Sistemas pela ETEC MAM e Análise e Desenvolvimento de Sistemas pela UNIMAR
 - 🌱 **Atualmente estudando:** Pós Graduando em Engenharia de Software na Universidade Tecnológica Federal do Paraná — UTFPR
-- 🌐 **Portfólio:** [kaueCorreia.com.br](https://portfoliokauecorreia.netlify.app/)
+- 🌐 **Portfólio:** [kauecorreia.com](https://portfoliokauecorreia.netlify.app/)
 
 ---
 <br>
